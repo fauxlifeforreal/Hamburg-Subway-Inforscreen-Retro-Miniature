@@ -1,6 +1,9 @@
 # Hamburg-Subway-Inforscreen-Retro-Miniature
 A Miniature Version of the old and soon to be replaced Hamburg subway infoscreens.
 
+DISCLAIMER: 
+This code was vibe-coded with the help of AI, I am not a programmer/coder. Use at your own risk.
+
 Use this hardware:
 Raspberry Pi Pico 2W
 https://www.raspberrypi.com/products/raspberry-pi-pico-2/?variant=pico-2-w
