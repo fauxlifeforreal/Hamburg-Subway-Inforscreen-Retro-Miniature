@@ -13,10 +13,10 @@ https://www.waveshare.com/wiki/Pico-ResTouch-LCD-3.5#Get_Started_with_Pico
 Run some demo code from here to make sure the pico and the shield are working:
 https://www.waveshare.com/wiki/Pico-ResTouch-LCD-3.5#Demo
 
-If the raspberrypi pico is new hardware to you, get acqauinted with it through this guide:
+If the raspberrypi pico is new hardware to you, get acquainted with it through this guide:
 https://www.waveshare.com/wiki/Pico-ResTouch-LCD-3.5#Pico_Getting_Started
 
-If the Arduino IDE is new software to you, get acqauinted with it through this guide:
+If the Arduino IDE is new software to you, get acquainted with it through this guide:
 https://www.waveshare.com/wiki/Pico-ResTouch-LCD-3.5#Arduino_IDE_Series
 
 Install the TFT_eSPI library in your Arduino IDE.
