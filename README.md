@@ -27,7 +27,7 @@ Replace the User_Setup.h and User_Setup_Select.h in your folder of the TFT_eSPI 
 
 Make sure the raspberry pi pico 2W is connected properly to your computer and recognized by the Arduino IDE.
 
-Open the RaspiVersion.ino of this repo in your Arduino IDE installation.
+Download the RaspiVersion repo/folder to your computer and open the .ino file within it in the Arduino IDE.
 Compile then Upload to your raspberry pi pico 2W.
 
 Enjoy the retrofeel of this project.
