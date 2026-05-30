@@ -22,3 +22,10 @@ https://www.waveshare.com/wiki/Pico-ResTouch-LCD-3.5#Arduino_IDE_Series
 Install the TFT_eSPI library in your Arduino IDE.
 Replace the User_Setup.h and User_Setup_Select.h in your folder of the TFT_eSPI Library installed in your libraries folder of the Arduino IDE on your system with the two files provided in the TFT_eSPI Config folder of this repository.
 
+Make sure the raspberry pi pico 2W is connected properly to your computer and recognized by the Arduino IDE.
+
+Open the RaspiVersion.ino of this repo in your Arduino IDE installation.
+Compile then Upload to your raspberry pi pico 2W.
+
+Enjoy the retrofeel of this project.
+
